@@ -1,0 +1,26 @@
+# Python venv
+venv/
+ENV/
+env/
+
+# Screenshot output folder
+screenshots/
+
+# Python cache garbage
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE trash
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs (if you ever add them)
+*.log
