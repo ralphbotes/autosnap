@@ -25,15 +25,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Open powershell and run:
-# python -m venv venv
-
-# venv\Scripts\activate
-
-# Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
-
-# pip install pillow
-
-# Deactivate when done
-# deactivate
